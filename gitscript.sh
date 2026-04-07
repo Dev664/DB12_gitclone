@@ -1,1 +1,1 @@
-echo "This is var 1"
+echo "This is var 2"
